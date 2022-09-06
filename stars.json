@@ -1,20 +1,20 @@
 [
   {
     "full_name": "evangodon/linear-cli",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1057,
-    "open_issues_count": 20,
-    "forks_count": 64
+    "stargazers_count": 1088,
+    "open_issues_count": 22,
+    "forks_count": 66
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 60,
-    "open_issues_count": 3,
+    "stargazers_count": 62,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "ThePrimeagen/.dotfiles",
-    "stargazers_count": 1240,
-    "open_issues_count": 8,
+    "stargazers_count": 1262,
+    "open_issues_count": 9,
     "forks_count": 209
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3481,
+    "stargazers_count": 3494,
     "open_issues_count": 12,
-    "forks_count": 788
+    "forks_count": 796
   },
   {
     "full_name": "asnunes/notion-page-to-html",
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "kcrawford/dockutil",
-    "stargazers_count": 1092,
+    "stargazers_count": 1093,
     "open_issues_count": 38,
     "forks_count": 126
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 103380,
-    "open_issues_count": 7829,
-    "forks_count": 15300
+    "stargazers_count": 103479,
+    "open_issues_count": 7837,
+    "forks_count": 15324
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 13023,
-    "open_issues_count": 194,
-    "forks_count": 1071
+    "stargazers_count": 13076,
+    "open_issues_count": 203,
+    "forks_count": 1072
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 136053,
-    "open_issues_count": 7555,
-    "forks_count": 23281
+    "stargazers_count": 136213,
+    "open_issues_count": 7614,
+    "forks_count": 23302
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 29709,
-    "open_issues_count": 417,
-    "forks_count": 1817
+    "stargazers_count": 29770,
+    "open_issues_count": 412,
+    "forks_count": 1822
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 11830,
-    "open_issues_count": 63,
-    "forks_count": 767
+    "stargazers_count": 11865,
+    "open_issues_count": 65,
+    "forks_count": 769
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 13424,
+    "stargazers_count": 14100,
     "open_issues_count": 94,
-    "forks_count": 611
+    "forks_count": 647
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 11457,
-    "open_issues_count": 138,
-    "forks_count": 1346
+    "stargazers_count": 11492,
+    "open_issues_count": 137,
+    "forks_count": 1347
   },
   {
     "full_name": "Nodman/scriptables",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "planetscale/beam",
-    "stargazers_count": 1589,
+    "stargazers_count": 1594,
     "open_issues_count": 4,
     "forks_count": 90
   },
   {
     "full_name": "javierbyte/brutalita",
-    "stargazers_count": 131,
+    "stargazers_count": 137,
     "open_issues_count": 4,
     "forks_count": 6
   },
@@ -129,7 +129,7 @@
     "full_name": "earwig/git-repo-updater",
     "stargazers_count": 714,
     "open_issues_count": 10,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "piglovesyou/graphql-let",
@@ -139,33 +139,33 @@
   },
   {
     "full_name": "iamvishnusankar/next-sitemap",
-    "stargazers_count": 1808,
-    "open_issues_count": 26,
+    "stargazers_count": 1820,
+    "open_issues_count": 29,
     "forks_count": 70
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 71716,
+    "stargazers_count": 72085,
     "open_issues_count": 63,
-    "forks_count": 9676
+    "forks_count": 9706
   },
   {
     "full_name": "fireship-io/nft-art-generator",
-    "stargazers_count": 339,
+    "stargazers_count": 340,
     "open_issues_count": 7,
     "forks_count": 125
   },
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 150051,
-    "open_issues_count": 274,
-    "forks_count": 24909
+    "stargazers_count": 150264,
+    "open_issues_count": 275,
+    "forks_count": 24964
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 20784,
-    "open_issues_count": 2546,
-    "forks_count": 1744
+    "stargazers_count": 20872,
+    "open_issues_count": 2551,
+    "forks_count": 1754
   },
   {
     "full_name": "praveenweb/swr-graphql",
