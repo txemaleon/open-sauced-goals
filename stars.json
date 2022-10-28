@@ -1,9 +1,9 @@
 [
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 31798,
-    "open_issues_count": 307,
-    "forks_count": 4749
+    "stargazers_count": 32303,
+    "open_issues_count": 313,
+    "forks_count": 4843
   },
   {
     "full_name": "trevorwhealy/scriptable-transit",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "karpathy/nn-zero-to-hero",
-    "stargazers_count": 3034,
+    "stargazers_count": 3056,
     "open_issues_count": 9,
-    "forks_count": 171
+    "forks_count": 174
   },
   {
     "full_name": "otoyo/easy-notion-blog",
-    "stargazers_count": 67,
+    "stargazers_count": 68,
     "open_issues_count": 1,
-    "forks_count": 48
+    "forks_count": 47
   },
   {
     "full_name": "simonhaenisch/prettier-plugin-organize-imports",
-    "stargazers_count": 508,
+    "stargazers_count": 509,
     "open_issues_count": 4,
     "forks_count": 24
   },
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1300,
+    "stargazers_count": 1308,
     "open_issues_count": 25,
     "forks_count": 77
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 122,
-    "open_issues_count": 7,
-    "forks_count": 17
+    "stargazers_count": 125,
+    "open_issues_count": 8,
+    "forks_count": 18
   },
   {
     "full_name": "matteolobello/type",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "ThePrimeagen/.dotfiles",
-    "stargazers_count": 1458,
-    "open_issues_count": 12,
-    "forks_count": 240
+    "stargazers_count": 1472,
+    "open_issues_count": 13,
+    "forks_count": 245
   },
   {
     "full_name": "nvie/rule-of-law",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 3838,
+    "stargazers_count": 3854,
     "open_issues_count": 9,
-    "forks_count": 878
+    "forks_count": 886
   },
   {
     "full_name": "asnunes/notion-page-to-html",
@@ -85,51 +85,51 @@
   },
   {
     "full_name": "kcrawford/dockutil",
-    "stargazers_count": 1118,
+    "stargazers_count": 1120,
     "open_issues_count": 39,
-    "forks_count": 128
+    "forks_count": 127
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 105058,
-    "open_issues_count": 7971,
-    "forks_count": 15517
+    "stargazers_count": 105181,
+    "open_issues_count": 7967,
+    "forks_count": 15535
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 14260,
-    "open_issues_count": 307,
-    "forks_count": 1277
+    "stargazers_count": 14513,
+    "open_issues_count": 300,
+    "forks_count": 1308
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 138357,
-    "open_issues_count": 7872,
-    "forks_count": 23798
+    "stargazers_count": 138481,
+    "open_issues_count": 7928,
+    "forks_count": 23831
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 31920,
-    "open_issues_count": 460,
-    "forks_count": 1951
+    "stargazers_count": 31993,
+    "open_issues_count": 430,
+    "forks_count": 1954
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 12381,
-    "open_issues_count": 51,
-    "forks_count": 805
+    "stargazers_count": 12424,
+    "open_issues_count": 54,
+    "forks_count": 806
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15372,
-    "open_issues_count": 107,
-    "forks_count": 720
+    "stargazers_count": 15396,
+    "open_issues_count": 108,
+    "forks_count": 722
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 11986,
-    "open_issues_count": 131,
-    "forks_count": 1447
+    "stargazers_count": 12040,
+    "open_issues_count": 144,
+    "forks_count": 1456
   },
   {
     "full_name": "Nodman/scriptables",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "planetscale/beam",
-    "stargazers_count": 1645,
+    "stargazers_count": 1649,
     "open_issues_count": 5,
     "forks_count": 96
   },
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "9gustin/react-notion-render",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 5,
     "forks_count": 14
   },
   {
     "full_name": "earwig/git-repo-updater",
-    "stargazers_count": 723,
+    "stargazers_count": 724,
     "open_issues_count": 10,
-    "forks_count": 90
+    "forks_count": 89
   },
   {
     "full_name": "piglovesyou/graphql-let",
     "stargazers_count": 443,
     "open_issues_count": 58,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "iamvishnusankar/next-sitemap",
-    "stargazers_count": 1949,
-    "open_issues_count": 34,
+    "stargazers_count": 1956,
+    "open_issues_count": 35,
     "forks_count": 70
   },
   {
     "full_name": "ryanmcdermott/clean-code-javascript",
-    "stargazers_count": 73760,
+    "stargazers_count": 73902,
     "open_issues_count": 67,
-    "forks_count": 9995
+    "forks_count": 10019
   }
 ]
