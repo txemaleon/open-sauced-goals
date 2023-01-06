@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "UdaraJay/_stats",
+    "stargazers_count": 22,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "wfxr/forgit",
-    "stargazers_count": 3683,
+    "stargazers_count": 3688,
     "open_issues_count": 14,
-    "forks_count": 118
+    "forks_count": 119
   },
   {
     "full_name": "Ryujinx/Ryujinx",
-    "stargazers_count": 15856,
-    "open_issues_count": 390,
-    "forks_count": 1782
+    "stargazers_count": 15915,
+    "open_issues_count": 388,
+    "forks_count": 1784
   },
   {
     "full_name": "nostr-protocol/nostr",
-    "stargazers_count": 3582,
-    "open_issues_count": 20,
-    "forks_count": 93
+    "stargazers_count": 3778,
+    "open_issues_count": 21,
+    "forks_count": 99
   },
   {
     "full_name": "shuding/react-wrap-balancer",
-    "stargazers_count": 1433,
-    "open_issues_count": 2,
-    "forks_count": 17
+    "stargazers_count": 1667,
+    "open_issues_count": 1,
+    "forks_count": 21
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 27321,
-    "open_issues_count": 317,
-    "forks_count": 3216
+    "stargazers_count": 27383,
+    "open_issues_count": 311,
+    "forks_count": 3228
   },
   {
     "full_name": "steven-tey/dub",
-    "stargazers_count": 4855,
+    "stargazers_count": 4925,
     "open_issues_count": 28,
-    "forks_count": 226
+    "forks_count": 227
   },
   {
     "full_name": "Stability-AI/stablediffusion",
-    "stargazers_count": 8999,
-    "open_issues_count": 74,
-    "forks_count": 793
+    "stargazers_count": 9259,
+    "open_issues_count": 77,
+    "forks_count": 819
   },
   {
     "full_name": "cemu-project/Cemu",
-    "stargazers_count": 3987,
+    "stargazers_count": 4003,
     "open_issues_count": 110,
-    "forks_count": 234
+    "forks_count": 232
   },
   {
     "full_name": "CompVis/stable-diffusion",
-    "stargazers_count": 38462,
-    "open_issues_count": 409,
-    "forks_count": 5967
+    "stargazers_count": 38659,
+    "open_issues_count": 412,
+    "forks_count": 6007
   },
   {
     "full_name": "trevorwhealy/scriptable-transit",
@@ -61,37 +67,37 @@
   },
   {
     "full_name": "karpathy/nn-zero-to-hero",
-    "stargazers_count": 3809,
-    "open_issues_count": 9,
+    "stargazers_count": 3828,
+    "open_issues_count": 10,
     "forks_count": 269
   },
   {
     "full_name": "otoyo/easy-notion-blog",
-    "stargazers_count": 114,
-    "open_issues_count": 1,
-    "forks_count": 61
+    "stargazers_count": 120,
+    "open_issues_count": 0,
+    "forks_count": 65
   },
   {
     "full_name": "simonhaenisch/prettier-plugin-organize-imports",
-    "stargazers_count": 543,
-    "open_issues_count": 3,
+    "stargazers_count": 545,
+    "open_issues_count": 4,
     "forks_count": 24
   },
   {
     "full_name": "evangodon/linear-cli",
     "stargazers_count": 26,
-    "open_issues_count": 5,
-    "forks_count": 3
+    "open_issues_count": 6,
+    "forks_count": 4
   },
   {
     "full_name": "hayes/pothos",
-    "stargazers_count": 1524,
+    "stargazers_count": 1536,
     "open_issues_count": 32,
-    "forks_count": 92
+    "forks_count": 93
   },
   {
     "full_name": "omar-dulaimi/prisma-zod-generator",
-    "stargazers_count": 218,
+    "stargazers_count": 220,
     "open_issues_count": 9,
     "forks_count": 28
   },
@@ -103,14 +109,14 @@
   },
   {
     "full_name": "ThePrimeagen/.dotfiles",
-    "stargazers_count": 1711,
+    "stargazers_count": 1716,
     "open_issues_count": 19,
-    "forks_count": 275
+    "forks_count": 277
   },
   {
     "full_name": "nvie/rule-of-law",
     "stargazers_count": 8,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 1
   },
   {
@@ -121,9 +127,9 @@
   },
   {
     "full_name": "craftzdog/dotfiles-public",
-    "stargazers_count": 4198,
-    "open_issues_count": 13,
-    "forks_count": 970
+    "stargazers_count": 4217,
+    "open_issues_count": 12,
+    "forks_count": 974
   },
   {
     "full_name": "asnunes/notion-page-to-html",
@@ -133,50 +139,44 @@
   },
   {
     "full_name": "kcrawford/dockutil",
-    "stargazers_count": 1152,
+    "stargazers_count": 1153,
     "open_issues_count": 40,
     "forks_count": 128
   },
   {
     "full_name": "golang/go",
-    "stargazers_count": 107247,
-    "open_issues_count": 8054,
-    "forks_count": 15758
+    "stargazers_count": 107342,
+    "open_issues_count": 8084,
+    "forks_count": 15766
   },
   {
     "full_name": "ToolJet/ToolJet",
-    "stargazers_count": 15580,
-    "open_issues_count": 276,
-    "forks_count": 1414
+    "stargazers_count": 15632,
+    "open_issues_count": 273,
+    "forks_count": 1425
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 140904,
-    "open_issues_count": 5696,
-    "forks_count": 24398
+    "stargazers_count": 141016,
+    "open_issues_count": 5708,
+    "forks_count": 24411
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 33318,
-    "open_issues_count": 469,
-    "forks_count": 2055
+    "stargazers_count": 33387,
+    "open_issues_count": 475,
+    "forks_count": 2065
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 13191,
+    "stargazers_count": 13229,
     "open_issues_count": 54,
-    "forks_count": 867
+    "forks_count": 869
   },
   {
     "full_name": "CodeEditApp/CodeEdit",
-    "stargazers_count": 15784,
-    "open_issues_count": 96,
-    "forks_count": 755
-  },
-  {
-    "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 13456,
-    "open_issues_count": 175,
-    "forks_count": 1617
+    "stargazers_count": 16079,
+    "open_issues_count": 98,
+    "forks_count": 766
   }
 ]
